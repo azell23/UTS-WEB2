@@ -1,0 +1,19 @@
+{
+  "name": "Mail App",
+  "short_name": "Mail App PWA",
+  "description": "Mail App PWA",
+  "icons": [
+    {
+      "src": "../logo.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose" : "any"
+    }
+  ],
+  "start_url": "https://is-mail.herokuapp.com/index.php",
+  "scope" : "https://is-mail.herokuapp.com/index.php",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "theme_color": "#fff",
+  "background_color": "#fff"
+}
